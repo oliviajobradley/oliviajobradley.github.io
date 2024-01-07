@@ -1,21 +1,24 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2024-01-05T07:00:00+05:30"
 title = "About me"
 +++
-
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
-
+Hello!
+I'm Olivia Jo, a Robotics Engineer from Olin College of Engineering. You can usually find me messing with 3D printers, playing water polo, working on embroidery projects, or spinning fire (more on that below). 
+Please look at some of my work experience and projects in the tabs to the left!
+Here's a little bit more about me, outside of school and engineering.
+I am from Rancho Palos Verdes, a suburb Los Angeles, near the beach.
+I've been a swimmer since middle school, did junior lifeguards growing up, and have played water polo since high school. I played on Wellesley's club team.
+One fun hobby I started in college is fire spinning and flow arts! I dance and perform to music while spinning various props that have little balls of fire on the ends!
+During quarantine, I picked up embroidery! I'm currently trying to learn different kinds of stitches and really enjoy making gifts for friends.
 ![This is me][1]
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 #### Education
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Add general blurb about Olin and my time there here.
+Mention portfolio in portfolio tab.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+#### Work Experience
+Briefly mention work experience. Mention that its in the work experience tab.
+
 
 [1]: /img/about.jpg
