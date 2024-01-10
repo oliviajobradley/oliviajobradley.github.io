@@ -6,11 +6,11 @@ languageCode = "en-us"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "pink"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2024 Olivia Jo Bradley"
   sidebarAbout = [
-    '''Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
+    '''<img src="/img/about.jpg" alt="Personal Photo"> <br> Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
     I graduated from Olin College of Engineering with a B.S. in Engineering with a 
     concentration in Robotics. I'm passionate about mechatronics, autonomous systems,
     renewable energy, and sustainability! Check out a few of my projects!'''

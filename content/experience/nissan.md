@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/experience/nissan_logo.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "Nissan Internship"
 weight = 3
@@ -15,4 +15,4 @@ During this internship, I went on multiple evaluation trips around the Eastern U
 I helped prep multiple cars with testing and data collection systems, so they would collect performance data throughout the United States.
 While I can't speak in detail about everything I worked on, I had a wonderful time working in this innovative field.
 
-[1]: /img/nissan_intern.jpg
+[1]: /img/experience/NTCNA.jpg

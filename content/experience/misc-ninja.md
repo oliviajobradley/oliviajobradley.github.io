@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/experience/Distancedprintertraining.PNG"
 date = "2023-11-05T18:25:22+05:30"
 title = "Class TA"
 weight = 5
@@ -11,4 +11,4 @@ blurb
 Talk about being a Ninja so many times for classes!
 ![Shop Image][1]
 
-[1]: /img/olin_shop.jpg
+[1]: /img/experience/Distancedprintertraining.PNG

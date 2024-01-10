@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/experience/Markforged.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "Markforged FTE"
 weight = 1
