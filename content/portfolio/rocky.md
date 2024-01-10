@@ -11,6 +11,7 @@ For the final project of Engineering Systems Analysis (ESA) I programmed (with N
 <!--more-->
 
 ![Rocky Image][1]
+
 This project was centered mostly around the logic and calculations behind transfer functions, and how these can be used for feedback loops with PI control, simulating the robot as an inverted pendulum, and having Rocky react to changes in its position to stabilize.
 During the project, we used Matlab Drive for file management, but since have uploaded all the files to the GitHub repository below.
 

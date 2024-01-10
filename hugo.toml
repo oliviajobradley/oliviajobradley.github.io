@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Creative portfolio"
+title = "Olivia Jo Bradley's Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 
@@ -10,10 +10,10 @@ languageCode = "en-us"
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
+    '''Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
     I graduated from Olin College of Engineering with a B.S. in Engineering with a 
     concentration in Robotics. I'm passionate about mechatronics, autonomous systems,
-    renewable energy, and sustainability! Check out a few of my projects!
+    renewable energy, and sustainability! Check out a few of my projects!'''
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
