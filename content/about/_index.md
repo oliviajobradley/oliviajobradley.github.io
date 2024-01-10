@@ -2,14 +2,9 @@
 date = "2024-01-05T07:00:00+05:30"
 title = "About me"
 +++
-Hello!
-I'm Olivia Jo, a Robotics Engineer from Olin College of Engineering. You can usually find me messing with 3D printers, playing water polo, working on embroidery projects, or spinning fire (more on that below). 
-Please look at some of my work experience and projects in the tabs to the left!
-Here's a little bit more about me, outside of school and engineering.
-I am from Rancho Palos Verdes, a suburb Los Angeles, near the beach.
-I've been a swimmer since middle school, did junior lifeguards growing up, and have played water polo since high school. I played on Wellesley's club team.
-One fun hobby I started in college is fire spinning and flow arts! I dance and perform to music while spinning various props that have little balls of fire on the ends!
-During quarantine, I picked up embroidery! I'm currently trying to learn different kinds of stitches and really enjoy making gifts for friends.
+
+Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. I graduated from Olin College of Engineering with a B.S. in Engineering with a concentration in Robotics. I'm passionate about mechatronics, autonomous systems, renewable energy, and sustainability! Check out a few of my projects!
+
 ![This is me][1]
 
 #### Education

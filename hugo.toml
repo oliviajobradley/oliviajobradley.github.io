@@ -10,8 +10,10 @@ languageCode = "en-us"
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
+    I graduated from Olin College of Engineering with a B.S. in Engineering with a 
+    concentration in Robotics. I'm passionate about mechatronics, autonomous systems,
+    renewable energy, and sustainability! Check out a few of my projects!
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -47,6 +49,6 @@ languageCode = "en-us"
   url = "contact/"
 
   [params.social]
-  email         = "email@example.com"
-  linkedin      = "full profile url in linkedin"
-  github        = "full profile url in github"
+  email         = "o.bradley@icloud.com"
+  linkedin      = "https://www.linkedin.com/in/oliviajobradley/"
+  github        = "https://github.com/oliviajobradley"
