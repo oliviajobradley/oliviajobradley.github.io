@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://oliviajobradley.com/"
 title = "Olivia Jo Bradley's Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -32,13 +32,9 @@ languageCode = "en-us"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "about/"
-  home = true
-
-  [[params.navlinks]]
   name = "Projects"
   url = "portfolio/"
+  home = true
 
   [[params.navlinks]]
   name = "Experience"
@@ -52,3 +48,5 @@ languageCode = "en-us"
   email         = "o.bradley@icloud.com"
   linkedin      = "https://www.linkedin.com/in/oliviajobradley/"
   github        = "https://github.com/oliviajobradley"
+
+  [params.meta]
