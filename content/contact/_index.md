@@ -2,5 +2,6 @@
 date = "2016-11-06T13:00:25+05:30"
 title = "Get in touch"
 +++
+Please use the form below, send me a direct email, or reach out through LinkedIn!
 
-Probably resume and some general experience thigns pointing to the experience tab? not sure tbh
+If you are looking for my resume, you can find it [here](LINK). All the information that can  be seen in it is in this website.
