@@ -4,7 +4,7 @@ draft = true
 image = "img/portfolio/a4-paper.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "LED Poi Module"
-weight = 1
+weight = 10
 +++
 For our Eclectronics Final Project, Nabih Estefan and I wanted to create a LED Prop Module by creating a battery powered PCB with a microcontroller, LEDs, an accelerometer, and buttons, which would be enclosed in a clear capsule.
 <!--more-->

@@ -4,7 +4,7 @@ draft = false
 image = "/img/portfolio/dispraille.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "Dispraille: The portable braille display"
-weight = 1
+weight = 5
 +++
 
 Nabih Estefan, Amit Kumar-Hermosillo, Charlotte Ramiro, and I participated in the MakeHarvard 2020 Make-a-thon. We decided to create, in our 24 hours, a portable braille scanner + display.

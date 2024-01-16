@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/ramenmachine.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "Ra-Meant-To-Be, a Ramen Making Robot"
-weight = 1
+weight = 2
 +++
 
 For our Principles of Integrated Engineering course, I was tasked, with a team of four other students, Esme Abbot, Sushmit Dutta, Joon Kang, and Han Vakil, to design a mechatronic system that included both a nontrivial mechanical system design, fabrication, and a nontrivial electronic system involving hardware and firmware aspects with a budget of $250 in 6 weeks.

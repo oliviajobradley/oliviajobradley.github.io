@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/FlyBox.jpg"
 date = "2023-11-05T18:25:22+05:30"
-title = "SCOPE"
+title = "Senior Capstone - Brandeis University"
 weight = 1
 +++
 
@@ -23,6 +23,8 @@ This year, we overhauled the FlyBox’s hardware, assembly, and software, creati
 If you want more information about the project details, please see the presentation recording and poster below.
 
 [Summit Presentation](https://www.youtube.com/watch?v=nXNCLWPsdFo&t=1s)
+
+< [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nXNCLWPsdFo&t=1s) >
 
 
 ![Flybox Poster][1]

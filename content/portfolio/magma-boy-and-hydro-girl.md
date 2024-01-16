@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/magmahydro.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "MagmaBoy and HydroGirl PyGame"
-weight = 1
+weight = 7
 +++
 
 For our Software Design Final Project, Maya Sivanandan, Chris Allum, and I wanted to create a game similar to one of our favorite childhood flash games, Fireboy and Watergirl.

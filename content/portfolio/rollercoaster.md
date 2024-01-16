@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/roller.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "Roller Coaster Loop Matlab Simulation"
-weight = 1
+weight = 9
 +++
 
 For this project, I created a simulation of a roller coaster loop.

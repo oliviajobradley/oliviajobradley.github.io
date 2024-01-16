@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/FurbyRover.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "Olin Planetary Rover"
-weight = 1
+weight = 3
 +++
 
 For the final Fundamentals of Robotics project, our team (Isabella Abilheira, Chris Allum, Olivia Jo Bradley, Oscar De La Garza, Nabih Estefan, Maya Sivanandan) was tasked with creating a rover that could complete several autonomous missions in The O, the center courtyard of Olin’s campus.

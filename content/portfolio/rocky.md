@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/rocky.jpg"
 date = "2023-11-05T18:25:22+05:30"
 title = "Self-Balancing Rocky Robot"
-weight = 1
+weight = 8
 +++
 
 For the final project of Engineering Systems Analysis (ESA) I programmed (with Nabih Estefan) a Balboa U324 robot (which we called Rocky) to self-balance. 

@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/filabot.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "3D Printing Independent Study"
-weight = 1
+weight = 6
 +++
 For my Senior year independent study, I decided to get hands-on experience with the Filabot filament recycling system, as well as further my materials science skills by comparing material properties and print quality of 3D printed filaments
 <!--more-->

@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/rubicks.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "Dum-E: a 2x2x2 Rubik's Cube Solver"
-weight = 1
+weight = 4
 +++
 
 Nabih Estefan, Maya Sivanandan, Florian Schwarzinger, and I participated in the MakeHarvard 2020 Make-a-thon. We decided to create, in our 24 hours, an automatic 2x2x2 Rubiks Cube solver.
