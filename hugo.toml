@@ -13,7 +13,10 @@ languageCode = "en-us"
     '''<img src="/img/about.jpg" alt="Personal Photo"> <br> Hello! I’m Olivia Jo, I'm a mechatronic engineer who loves learning new skills. 
     I graduated from Olin College of Engineering with a B.S. in Engineering with a 
     concentration in Robotics. I'm passionate about mechatronics, autonomous systems,
-    renewable energy, and sustainability! Check out a few of my projects!'''
+    renewable energy, and sustainability! Check out a few of my projects!
+    
+    Please reach out by sending me a direct email, or through LinkedIn!
+    '''
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -39,10 +42,6 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "Experience"
   url = "experience/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
 
   [params.social]
   email         = "o.bradley@icloud.com"
