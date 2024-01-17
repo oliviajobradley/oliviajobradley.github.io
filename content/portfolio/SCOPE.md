@@ -11,7 +11,7 @@ Brandeis’s Rosbash Lab does groundbreaking
 research on circadian rhythms and neuroscience.
 This research relies upon data collected by the
 FlyBox, a box designed to house 96 fruit flies in a
-stable andreplicable environment with means
+stable and replicable environment with means
 for providing video footage of the flies . The
 improved FlyBox provides a better working
 experience for researchers at Brandeis and other
