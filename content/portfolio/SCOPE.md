@@ -24,7 +24,7 @@ If you want more information about the project details, please see the presentat
 
 [Summit Presentation](https://www.youtube.com/watch?v=nXNCLWPsdFo&t=1s)
 
-< [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nXNCLWPsdFo&t=1s) >
+[![Summit Presentation](img/portfolio/Scopevideo.png)](https://www.youtube.com/watch?v=nXNCLWPsdFo&t=1s)
 
 
 ![Flybox Poster][1]
