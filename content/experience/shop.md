@@ -4,7 +4,7 @@ draft = false
 image = "img/experience/shop.png"
 date = "2023-11-05T18:25:22+05:30"
 title = "Olin Machine Shop Assistant"
-weight = 4
+weight = 5
 +++
 Starting in the summer of 2020 (the first pandemic summer and my first summer in college) I worked for my school's machine shop.
 <!--more-->

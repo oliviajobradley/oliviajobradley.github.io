@@ -34,22 +34,29 @@ The graph below is a graph of the energy of the system.
 ![Energy][9]
 
 As you can see the total energy line is not perfectly flat.
+
 I believe this is due to the fact that I had to make the “jumps” to skip the vertical portions of the loop. It is relatively flat though, and I believe it is enough to validate my system. 
+
 The next thing I wanted to do was optimize for the smallest height of the initial bump that would allow the cart to successfully pass through the loop with my initial conditions (a velocity of `1 m/s` in the x-direction and a cart of 500kgs).
+
 After looping through various heights, it seems 146m is the minimum. The graph below shows the speed of the coaster over time.
+
 ![Speed][10]
 As you can see, the coaster slows down while in the loop. The maximum speed is 52 m/s, or 116.3 mph, which would make this the 4th fastest roller coaster in the world. The next thing I wanted to test was the forces my riders experience on the ride.
+
 I specifically chose a non circle roller coaster because I wanted to challenge myself and create a coaster that would be safe to ride.
+
 I calculated the acceleration of the cart, and used `𝐹 = 𝑚 * 𝑎` to find the force that the cart experiences.
+
 I then plotted this force over time in newtons and in Gs.
-Both plots are in a few segments, which I believe is also due to the jumps I had to make to avoid the verticals. I also added two lines, one at 9 Gs which would kill a passenger, and one at 4 Gs, which would cause the average rider to pass out. To verify this, I also compared my graph's shape to the force over time graph from the paper Roller coasters without differential equations — a Newtonian approach to constrained motion by Rainer Müller in the European Journal of Physics. The graphs
-were of similar shape, so I believe this validates my model.
+
+Both plots are in a few segments, which I believe is also due to the jumps I had to make to avoid the verticals. I also added two lines, one at 9 Gs which would kill a passenger, and one at 4 Gs, which would cause the average rider to pass out. To verify this, I also compared my graph's shape to the force over time graph from the paper Roller coasters without differential equations — a Newtonian approach to constrained motion by Rainer Müller in the European Journal of Physics. The graphswere of similar shape, so I believe this validates my model.
 
 ![My Graph][11]
 ![Ideal][12]
 
-[Video of Final Presentation](https://youtu.be/ucBVkjceUf8)  
-[Github Repository](https://github.com/oliviajobradley/rollercoasterdynamics)
+### > [Video of Final Presentation](https://youtu.be/ucBVkjceUf8)  
+### > [Github Repository](https://github.com/oliviajobradley/rollercoasterdynamics)
 
 [1]: /img/portfolio/roller.png
 [2]: /img/portfolio/roller_track_port.png

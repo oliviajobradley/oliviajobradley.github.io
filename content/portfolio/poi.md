@@ -14,6 +14,6 @@ Both of us were members of the Olin Fire Arts Club, and enjoy springing and perf
 
 We designed the board electronics from scratch, while I designed and produced the resin printed housing to hold and protect the board. Once we had both elements, we assembled the board by soldering the components we had acquired and fitting it into the created enclosure. For more detail please read the report in our github repository.
 
-[Github Link](https://github.com/nabihestefan/LEDPropModule)
+### > [Github Link](https://github.com/nabihestefan/LEDPropModule)
 
 [1]: /img/rocky.jpg

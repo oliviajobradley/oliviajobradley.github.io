@@ -6,7 +6,7 @@ date = "2023-11-05T18:25:22+05:30"
 title = "Nissan Internship"
 weight = 3
 +++
-Interned at Nissan in Watertown MA from May 2021 to August 2021.
+Interned at Nissan in Watertown, MA from May 2021 to August 2021.
 At Nissan, I worked with the Autonomous Drive/Advanced Driver-Assistance Systems (AD/ADAS) Test team.
 <!--more-->
 ![Nissan Intern Image][1]
