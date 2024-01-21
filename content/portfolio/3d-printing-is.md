@@ -6,7 +6,7 @@ date = "2023-11-05T18:25:22+05:30"
 title = "3D Printing Independent Study"
 weight = 6
 +++
-For my Senior year independent study, I decided to get hands-on experience with the Filabot filament recycling system, as well as further my materials science skills by comparing material properties and print quality of 3D printed filaments
+For my Senior year independent study, I decided to get hands-on experience with the Filabot filament recycling system, as well as further my materials science skills by comparing material properties and print quality of 3D printed filaments.
 <!--more-->
 
 ### What is Recycled PLA?
@@ -21,7 +21,7 @@ I want to get hands-on experience with the Filabot filament recycling system, a 
 ![Filabot Image][1]
 
 ### Method
-I started by isolating process variables. The main process variables in the recycling system. 
+I started by isolating the main process variables in the recycling system. 
 The first two are the inputs, how it is grinded and what materials were grinded. For all my tests, I printed sheets of Inland brand filament PLA in the color natural, also known as the filament with no additional colors or dyes. I grinded those sheets using the same modified paper shredder from the MCCI work, and used the resulting pellets to create all the filament for testing. 
 
 The filabot system has multiple components, and many settings to modify. 
