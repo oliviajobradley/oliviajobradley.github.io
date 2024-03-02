@@ -7,7 +7,7 @@ title = "Olin Planetary Rover"
 weight = 3
 +++
 
-For the final Fundamentals of Robotics project, our team (Isabella Abilheira, Chris Allum, Olivia Jo Bradley, Oscar De La Garza, Nabih Estefan, Maya Sivanandan) was tasked with creating a rover that could complete several autonomous missions in The O, the center courtyard of Olin’s campus.
+For the final Fundamentals of Robotics project, our team created a rover that could complete several autonomous missions in The O, the center courtyard of Olin’s campus.
 <!--more-->
 ![Team Image][1]  
 The three main challenges were: navigation of unobstructed terrain, docking in a supply station, and delivering a payload to a dropbox.
@@ -21,6 +21,8 @@ I did some calculations throughout the iteration process in order to hold three 
 We connected to the rover using a Raspberry Pi and coded our Sense, Think, and Act functions that allowed our rover to operate autonomously in Matlab. For file management, we used Matlab drive for our software files and Grabcad for our CAD files.
 
 After our project, this rover was shipped to India for studies by MATLAB engineers in order to improve MATLAB's robot control and Raspberry Pi interface!
+
+My teammates for this project were Isabella Abilheira, Chris Allum, Oscar De La Garza, Nabih Estefan, and Maya Sivanandan.
 
 ### > [Github Repository](https://github.com/oliviajobradley/OlinRover)  
 ### > [Final Report](https://drive.google.com/file/d/1MHURrN24GOxS14rsIptVzgXu4M-QutD8/view?usp=sharing)

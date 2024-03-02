@@ -6,7 +6,7 @@ date = "2023-11-05T18:25:22+05:30"
 title = "Class Teaching Assistant"
 weight = 6
 +++
-Over my 4 years at Olin, I was a Teaching Advisor for 3 different classes: Design Nature (twice), Mechanical Prototyping (twice), and Principles of Integrated Engineering.
+Over my 4 years at Olin, I worked as a Teaching Advisor for 3 different classes: Design Nature (twice), Mechanical Prototyping (twice), and Principles of Integrated Engineering.
 
 <!--more-->
 ![Shop Image][1]

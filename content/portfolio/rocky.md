@@ -7,7 +7,7 @@ title = "Self-Balancing Rocky Robot"
 weight = 8
 +++
 
-For the final project of Engineering Systems Analysis (ESA) I programmed (with Nabih Estefan) a Balboa U324 robot (which we called Rocky) to self-balance. 
+For the final project of Engineering Systems Analysis (ESA) my partner and I programmed a Balboa U324 robot (which we called Rocky) to self-balance. 
 <!--more-->
 
 ![Rocky Image][1]
@@ -15,6 +15,8 @@ For the final project of Engineering Systems Analysis (ESA) I programmed (with N
 This project was centered mostly around the logic and calculations behind transfer functions, and how these can be used for feedback loops with PI control, simulating the robot as an inverted pendulum, and having Rocky react to changes in its position to stabilize.
 
 During the project, we used Matlab Drive for file management, but since have uploaded all the files to the GitHub repository below.
+
+My partner for this project was Nabih Estefan.
 
 ### > [Final Report](https://github.com/oliviajobradley/RockyBalancing/blob/main/files/FinalUploads/FinalReport.pdf)  
 ### > [Video of Rocky in Action](https://github.com/oliviajobradley/RockyBalancing/blob/main/files/FinalUploads/RockyVideo.mp4)  

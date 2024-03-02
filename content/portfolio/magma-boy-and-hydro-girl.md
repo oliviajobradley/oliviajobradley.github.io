@@ -7,7 +7,7 @@ title = "MagmaBoy and HydroGirl PyGame"
 weight = 7
 +++
 
-For our Software Design Final Project, Maya Sivanandan, Chris Allum, and I wanted to create a game similar to one of our favorite childhood flash games, Fireboy and Watergirl.
+For our Software Design Final Project, My teammates and I made a game similar to one of our favorite childhood flash games, Fireboy and Watergirl.
 <!--more-->
 ![Game Landing Page][1]
 Below is a short description of our game:
@@ -17,6 +17,7 @@ But be careful! MagmaBoy can’t touch the water puddles, HydroGirl can’t touc
 
 For this project, we mainly used Pygame and Github for file management.
 
+My teammates for this project were Maya Sivanandan and Chris Allum.
 
 ### > [Github Repository](https://github.com/ctallum/MagmaBoy-and-HydroGirl-Game)  
 ### > [Project Website](https://chrisallum.com/MagmaBoy-and-HydroGirl-Game/)

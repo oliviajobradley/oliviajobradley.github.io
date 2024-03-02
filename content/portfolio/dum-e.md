@@ -3,11 +3,11 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/rubicks.png"
 date = "2023-11-05T18:25:22+05:30"
-title = "Dum-E: a 2x2x2 Rubik's Cube Solver"
+title = "Dum-E: a 2x2x2 Rubik's Cube Solver - MakeHarvard Original Winner 2023"
 weight = 4
 +++
 
-Nabih Estefan, Maya Sivanandan, Florian Schwarzinger, and I participated in the MakeHarvard 2020 Make-a-thon. We decided to create, in our 24 hours, an automatic 2x2x2 Rubik's Cube solver.
+I participated in the MakeHarvard 2020 Make-a-thon. My team produced, in our 24 hours, an automatic 2x2x2 Rubik's Cube solver.
 <!--more-->
 ![Celebration once it worked!][1]  
 
@@ -18,6 +18,8 @@ We designed the structure during the start of our Make -a-thon. To solve the cha
 In order to mount all of these pieces, I built a frame that was easily adjustable out of 80/20 T-slot aluminum. Our group was also pushing for the Original Prize, which meant we could only use the provided materials. These pieces were designed, manufactured, and iterated multiple times within the 24-hour competition. 
 
 We won the MakeHarvard 2020 Original Prize, as our project was entirely created during the 24 hours of the competition using no external materials.
+
+My teammates were Nabih Estefan, Maya Sivanandan, and Florian Schwarzinger. 
 
 ### > [Summary Video](https://www.youtube.com/watch?v=e7CE5B1t01g)  
 ### > [Olin College News](https://www.olin.edu/news-events/2020/three-olin-teams-win-top-prizes-makeharvard-2020/)
