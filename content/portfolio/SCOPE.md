@@ -18,7 +18,7 @@ experience for researchers at Brandeis and other
 labs around the world.
 <!--more-->
 
-This project has recently started the process to publish a research paper which includes our work in creating the FlyBox. If interested, please click [here](https://www.biorxiv.org/content/about-biorxiv) to read the unpublished preprint.
+This project has recently started the process to publish a research paper which includes our work in creating the FlyBox. If interested, please click [here](https://www.biorxiv.org/content/10.1101/2024.05.15.594443v1) to read the unpublished preprint.
 
 This year, we overhauled the FlyBox’s hardware, assembly, and software, creating a robust and polished tool. The redesigned box structure delivers reliable experiment conditions, and custom printed circuit boards streamline wiring and simplify troubleshooting. Detailed instructions, including photos of each assembly step and engraving on frame parts, make it easy for a scientist to assemble their own FlyBox. Lastly, the brand-new software workflow for creating FlyBox tests is intuitive yet feature-rich. With the improved FlyBox, researchers from the Rosbash Lab and beyond can conduct optogenetics research with ease and consistency.  
 
@@ -35,7 +35,7 @@ If you want more information about the project details, please see the presentat
 ![Flybox Poster][1]
 
 
-### > [Brandeis Research Paper Prepublished Preprint](https://www.biorxiv.org/content/about-biorxiv)
+### > [Brandeis Research Paper Prepublished Preprint](https://www.biorxiv.org/content/10.1101/2024.05.15.594443v1)
 ### > [Github Link](https://github.com/ctallum/FlyBox)
 ### > [Olin College SCOPE Project Page](https://www.olin.edu/research/brandeis-university-rosbash-lab)
 ### > [Brandeis Rosbash Lab](https://sites.google.com/brandeis.edu/rosbashlab)
